@@ -67,9 +67,9 @@ main p {
 
 @media screen and (max-width: 450px) {
   #icons {
-  display: flex;
-  flex-direction: row;
-  margin-top: 50px;
-  gap: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 5px;
   }
 }
