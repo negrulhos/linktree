@@ -65,3 +65,9 @@ main p {
   gap: 20px;
 }
 
+@media screen and (min-width: 350px) {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  gap: 10px;
+}
